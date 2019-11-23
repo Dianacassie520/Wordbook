@@ -7,7 +7,9 @@
     <string name="action_delete">删除</string>
     <string name="action_update">修改</string>
     <string name="action_translate">有道翻译</string>
-    <string name="action_news">globaltimes</string>
+    <string name="action_news">新闻</string>
+    <string name="action_help">帮助</string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

@@ -2,8 +2,9 @@ package com.example.words;
 
 import android.content.res.Configuration;
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class WordDetailActivity extends AppCompatActivity implements WordDetailFragment.OnFragmentInteractionListener{
 
